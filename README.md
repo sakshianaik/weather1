@@ -1,2 +1,2 @@
 # weather1
-[https://weatherappsak1.netlify.app/]
+https://weatherappsak1.netlify.app/
